@@ -1,3 +1,7 @@
+# Food Recipe App
+
+!["Welcome screen"](https://github.com/spykelionel/android-food-recipe-app/blob/master/splash.png)
+
 # Features
 - View a food type.
 - View details (ingredients, preparation)
